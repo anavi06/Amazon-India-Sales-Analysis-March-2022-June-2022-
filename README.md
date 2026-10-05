@@ -74,5 +74,5 @@ https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sal
 ## Tableau Dashboard
 
 Interactive dashboard with all the key insights using visualizations.  
-**Tableau Public Link**: *https://public.tableau.com/shared/JWCW3JC9Z?:display_count=n&:origin=viz_share_link*
+**Tableau Public Link**: *https://public.tableau.com/app/profile/anavi.jain/viz/Amazon_sales_17535860567140/AmazonOrderAnalysisMar2022-Jun2022*
 
